@@ -1,0 +1,5 @@
+{
+    "require": {
+        "johnbillion/extended-cpts": "^5.0"
+    }
+}
